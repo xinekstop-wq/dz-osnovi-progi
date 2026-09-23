@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="0n9VrAtDFeGOqwAlLiGQ">
+    <mxGraphModel dx="1364" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kULN5X5cwH53KOaMZD3z-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="начало" vertex="1">
+          <mxGeometry height="80" width="120" x="360" as="geometry" />
+        </mxCell>
+        <mxCell id="kULN5X5cwH53KOaMZD3z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="x = 180" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kULN5X5cwH53KOaMZD3z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="W = 4 * X" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kULN5X5cwH53KOaMZD3z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="R = W - X" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="kULN5X5cwH53KOaMZD3z-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="S = R / 3" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="kULN5X5cwH53KOaMZD3z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Y = S * 52" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="kULN5X5cwH53KOaMZD3z-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="9360руб&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="kULN5X5cwH53KOaMZD3z-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="конец&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="590" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
